@@ -36,6 +36,14 @@ $ npx runtastic-gpx ~/Desktop/export-20190101-000 ~/Downloads/export
 - Weight Training
 - Crossfit
 - Walk
+- Swim
+- Pilates
+- Tennis
+- Mountain Bike
+- Other
+- Hike
+- Cycling ergometer
+- Inline Skating
 
 ## License
 
